@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Scheduler</string>
+    <string name="edit_message">Test</string>
+    <string name="button_send">Send</string>
 </resources>
